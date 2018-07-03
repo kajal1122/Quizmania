@@ -1,0 +1,55 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+body
+{
+  background-image: url("harry 7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1
+{
+  font-size: 58px;
+  font-family: 'Wendy One', sans-serif;
+
+}
+p
+{
+  font-size: 48px;
+  color: #095DFC;
+  font-weight:bold;
+  font-family: 'Lobster', cursive;
+}
+button
+{
+  font-size: 46px;
+  color: white;
+  background: black;
+  margin-top: 20px;
+}
+.radiobutton
+{
+  /*  may be we need to increase the width and height*/
+  /*  change width and heigth to 5em to test..kijie aap*/
+  width: 2em;
+  height: 2em;
+
+  /*  hawwww :-/ */
+  /*  It looks amazing btw!...but font-size nhi bada hua*/
+  /* because it is not part of radiobutton*/
+}
+.optionText
+{
+  font-size: 24px;
+  font-weight: bold;
+  color: #F70F08;
+}
+.display
+{
+  font-size: 58px;
+  font-weight: bold;
+  color: #095DFC;
+}
